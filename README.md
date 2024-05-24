@@ -42,13 +42,6 @@
 Me considero una persona proactiva, con una mentalidad orientada a resultados y disposición para trabajar en equipo. Valoro mucho el aprendizaje continuo y la oportunidad de adquirir nuevos conocimientos y habilidades. Además de programar, disfruto explorando las últimas tendencias y tecnologías emergentes en el campo del desarrollo web.
 </p>
 
-<p align="center">
-Mi objetivo es crear experiencias digitales atractivas, intuitivas y accesibles para los usuarios. Me apasiona resolver problemas complejos a través de soluciones creativas y eficientes. Siempre busco entregar un trabajo de calidad, cumpliendo con los estándares y buenas prácticas de la industria.
-</p>
-
-<p align="center">
-En mi tiempo libre, me gusta participar en proyectos personales y contribuir a la comunidad de código abierto. También disfruto compartiendo mi conocimiento y aprendiendo de otros desarrolladores a través de foros, blogs y eventos de la comunidad.
-</p>
 
 <h3 align="center">¿Quieres contactarme?</h3>
 <p align="center">
