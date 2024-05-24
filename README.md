@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Miguel+Alejo" alt="Typing SVG" />
   </a>
   <a target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=535&lines=Hola!+Este+es+mi+perfil+de+GitHub&center=true&size=30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=535&lines=Este+es+mi+perfil+de+GitHub&center=true&size=30" alt="Typing SVG" />
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=535&lines=Disfruto+Programando+:)&center=true&size=30" alt="Typing SVG" />
   </a>
 </h1>
