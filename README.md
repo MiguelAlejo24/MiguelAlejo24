@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dHYSWcw.gif" alt="Coding" width="400" />
+
 </p>
 <h1 align="center">
 <a href="https://miguelalejo.com" target="\_blank">
