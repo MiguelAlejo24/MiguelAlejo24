@@ -1,5 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/dHYSWcw.gif" alt="Coding" width="400" />
+<img src="https://i.imgur.com/xxxxxx.gif" alt="Coding" width="400" />
 </p>
 <h1 align="center">
 <a href="https://miguelalejo.com" target="\_blank">
@@ -21,6 +20,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 </p>
+<!-- Sección de lenguajes más utilizados -->
 <h3 align="center">Lenguajes más utilizados</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelalejo&layout=compact&theme=radical" alt="Lenguajes más utilizados" />
@@ -36,6 +36,7 @@ Me considero una persona proactiva, con una mentalidad orientada a resultados y 
 <p align="center">
 <a href="mailto:fernandoalejo68@gmail.com" target="\_blank"><img src="https://img.shields.io/badge/-Correo-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Correo"></a>
 </p>
+<!-- Sección de trofeos de GitHub -->
 <h3 align="center">Trofeos de GitHub</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=miguelalejo&theme=radical" alt="Trofeos de GitHub" />
