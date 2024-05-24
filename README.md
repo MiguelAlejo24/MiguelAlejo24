@@ -1,8 +1,10 @@
-<img src="https://i.imgur.com/xxxxxx.gif" alt="Coding" width="400" />
+<img src="https://i.imgur.com/dHYSWcw.gif" alt="Coding" width="400" />
 </p>
 <h1 align="center">
 <a href="https://miguelalejo.com" target="\_blank">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Miguel+Alejo&center=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=535&lines=Estudiante+de+Desarrollo+de+Software+en+SENATI&center=true&size=30" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=535&lines=Cursando+el+5to+Ciclo&center=true&size=30" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=535&lines=Este+es+mi+perfil+de+GitHub&center=true&size=30" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=535&lines=Disfruto+Programando+:)&center=true&size=30" alt="Typing SVG" />
 </a>
