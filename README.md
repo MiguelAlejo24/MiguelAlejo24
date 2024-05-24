@@ -28,12 +28,6 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 </p>
 
-<!-- Sección de estadísticas de GitHub -->
-<h3 align="center">Estadísticas de GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelalejo&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
-
 <!-- Sección de lenguajes más utilizados -->
 <h3 align="center">Lenguajes más utilizados</h3>
 <p align="center">
@@ -41,8 +35,21 @@
 </p>
 
 <h3 align="center">Sobre mí</h3>
+
 <p align="center">
-  ¡Hola! Soy un programador apasionado y en constante aprendizaje. Me encanta sumergirme en el mundo del desarrollo web y crear soluciones innovadoras. Disfruto trabajando con HTML, CSS, PHP y JavaScript, y estoy emocionado por seguir creciendo en estas tecnologías. Siempre estoy buscando nuevos desafíos y oportunidades para mejorar mis habilidades.
+¡Hola! Soy un programador apasionado y en constante aprendizaje. Me encanta sumergirme en el mundo del desarrollo web y crear soluciones innovadoras. Disfruto trabajando con HTML, CSS, PHP y JavaScript, y estoy emocionado por seguir creciendo en estas tecnologías. Siempre estoy buscando nuevos desafíos y oportunidades para mejorar mis habilidades.
+</p>
+
+<p align="center">
+Me considero una persona proactiva, con una mentalidad orientada a resultados y disposición para trabajar en equipo. Valoro mucho el aprendizaje continuo y la oportunidad de adquirir nuevos conocimientos y habilidades. Además de programar, disfruto explorando las últimas tendencias y tecnologías emergentes en el campo del desarrollo web.
+</p>
+
+<p align="center">
+Mi objetivo es crear experiencias digitales atractivas, intuitivas y accesibles para los usuarios. Me apasiona resolver problemas complejos a través de soluciones creativas y eficientes. Siempre busco entregar un trabajo de calidad, cumpliendo con los estándares y buenas prácticas de la industria.
+</p>
+
+<p align="center">
+En mi tiempo libre, me gusta participar en proyectos personales y contribuir a la comunidad de código abierto. También disfruto compartiendo mi conocimiento y aprendiendo de otros desarrolladores a través de foros, blogs y eventos de la comunidad.
 </p>
 
 <h3 align="center">¿Quieres contactarme?</h3>
